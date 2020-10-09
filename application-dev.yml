@@ -28,7 +28,7 @@ spring:
       poolPreparedStatements: true
       maxOpenPreparedStatements: 20
 
-myprofileinfo: this is datatransfer-yorkwell default profile
+myprofileinfo: this is datatransfer-fwkk dev profile
 
 myconfig:
   weixin_web_base_url: http://localhost:8080/Weixin
